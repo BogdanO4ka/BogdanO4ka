@@ -16,5 +16,33 @@
   </ul>
 </div>
 <div>
-  Социальные сети:
+  <h2>Социальные сети</h2>
+  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+</div>
+<div>
+  <h2>Технологии</h2>
+  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+</div>
+<div>
+  <h2>Инструменты</h2>
+  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+</div>
+<div>
+  <h2>Пройденные курсы</h2>
+  <table>
+    <tr>
+      <td>Test0</td>
+      <td>Test1</td>
+    </tr>
+    <tr>
+      <td>Test2</td>
+      <td>Test3</td>
+    </tr>
+  </table>
 </div>
