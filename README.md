@@ -28,7 +28,7 @@
   <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="30"/></a>
   <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" height="30"/></a>
   <a href=""><img src="https://www.nginx.com/wp-content/uploads/2019/10/favicon-48x48.ico" height="30"/></a>
-  <a href=""><img src="//avatars.mds.yandex.net/get-entity_search/58808/261054429/S122x122Fit_2x" height="30"/></a>
+  <a href=""><img src="" height="30"/></a>
   <a href=""><img src="" height="30"/></a>
   <a href=""><img src="" height="30"/></a>
 </div>
