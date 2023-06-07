@@ -19,7 +19,7 @@
   <h2>Социальные сети</h2>
   <a href="https://vk.com/id392872765"><img src="https://camo.githubusercontent.com/e8005e7cba12a7d7a844030ba9a19259bf56e6b5e921b4053aa82f7a7b38fe60/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3134352f3134353831332e706e67" height="30"/></a>
   <a href=""><img src="https://avatars.mds.yandex.net/get-entity_search/5488405/551762834/S122x122Fit_2x" height="30"/></a>
-  <a href=""><img src="" height="30"/></a>
+  <a href="https://hat-inc.site/"><img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/></a>
 </div>
 <div>
   <h2>Технологии</h2>
