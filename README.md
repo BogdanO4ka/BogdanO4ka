@@ -31,6 +31,7 @@
   <a href=""><img src="" height="30"/></a>
   <a href=""><img src="" height="30"/></a>
   <a href=""><img src="" height="30"/></a>
+  <a href=""><img src="" height="30"/></a>
 </div>
 <div>
   <h2>Инструменты</h2>
