@@ -31,13 +31,14 @@
   <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/f18382219dcbddba333a7b6a7e35d6547ad58253/material/django.svg" height="30"/></a>
   <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/2daa18ee18db35aa64971e3cce9cf17cb89519d5/material/Tensorflow_logo.svg" height="30"/></a>
   <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/2daa18ee18db35aa64971e3cce9cf17cb89519d5/material/mysql-svgrepo-com.svg" height="30"/></a>
-  <a href=""><img src="" height="30"/></a>
 </div>
 <div>
   <h2>Инструменты</h2>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/2daa18ee18db35aa64971e3cce9cf17cb89519d5/material/Calligrakrita-base.svg" height="30"/>
-  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+  <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" height="30"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/2daa18ee18db35aa64971e3cce9cf17cb89519d5/material/Calligrakrita-base.svg" height="30"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/f9d83a871aa4e0324795bf49b2367615b1aa8d81/material/visual-studio-code-1.svg" height="30"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/f9d83a871aa4e0324795bf49b2367615b1aa8d81/material/PyCharm_Icon.svg" height="30"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/f9d83a871aa4e0324795bf49b2367615b1aa8d81/material/icons8-davinci-resolve.svg" height="30"/></a>
 </div>
 <div>
   <h2>Пройденные курсы</h2>
