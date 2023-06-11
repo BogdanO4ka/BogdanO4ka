@@ -26,17 +26,17 @@
   <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" height="30"/></a>
   <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" height="30"/></a>
   <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="30"/></a>
-  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/f18382219dcbddba333a7b6a7e35d6547ad58253/material/django.svg" height="30"/></a>
   <a href=""><img src="https://www.nginx.com/wp-content/uploads/2019/10/favicon-48x48.ico" height="30"/></a>
-  <a href=""><img src="" height="30"/></a>
-  <a href=""><img src="" height="30"/></a>
-  <a href=""><img src="" height="30"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/2daa18ee18db35aa64971e3cce9cf17cb89519d5/material/python-svgrepo-com.svg" height="30"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/f18382219dcbddba333a7b6a7e35d6547ad58253/material/django.svg" height="30"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/2daa18ee18db35aa64971e3cce9cf17cb89519d5/material/Tensorflow_logo.svg" height="30"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/2daa18ee18db35aa64971e3cce9cf17cb89519d5/material/mysql-svgrepo-com.svg" height="30"/></a>
   <a href=""><img src="" height="30"/></a>
 </div>
 <div>
   <h2>Инструменты</h2>
   <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" height="30"/>
-  <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
+  <img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/2daa18ee18db35aa64971e3cce9cf17cb89519d5/material/Calligrakrita-base.svg" height="30"/>
   <img src="https://cdn.discordapp.com/attachments/675399734390685717/1114590772168241294/hat.png" height="30"/>
 </div>
 <div>
