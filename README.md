@@ -26,7 +26,7 @@
   <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" height="30"/></a>
   <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" height="30"/></a>
   <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="30"/></a>
-  <a href=""><img src="" height="30"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BogdanO4ka/BogdanO4ka/f18382219dcbddba333a7b6a7e35d6547ad58253/material/django.svg" height="30"/></a>
   <a href=""><img src="https://www.nginx.com/wp-content/uploads/2019/10/favicon-48x48.ico" height="30"/></a>
   <a href=""><img src="" height="30"/></a>
   <a href=""><img src="" height="30"/></a>
